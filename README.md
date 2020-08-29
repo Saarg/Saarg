@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a french game developper working in AAA with a love for unity and DOTS.
 
-[![Saarg's github stats](https://github-readme-stats.vercel.app/api?username=Saarg&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Saarg's github stats](https://github-readme-stats.vercel.app/api?username=Saarg&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saarg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=3dbb3d)
